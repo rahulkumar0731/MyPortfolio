@@ -53,7 +53,7 @@ body{
 /* home content starts here */
 .home {
     height: 100vh;
-    background: url('./images/pexels-nikolaos-dimou-2473183.jpg') no-repeat;
+    background: url('./pexels-nikolaos-dimou-2473183.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     /* opacity: .8; */
@@ -95,7 +95,7 @@ body{
 /* about section starts here */
 .about{
     height: 100vh;
-    background: url('./images/pexels-nikolaos-dimou-2473183.jpg') no-repeat;
+    background: url('./pexels-nikolaos-dimou-2473183.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     /* opacity: .8; */
@@ -141,7 +141,7 @@ body{
 /* education content starts here */
 .education{
     height: 100vh;
-    background: url('./images/pexels-nikolaos-dimou-2473183.jpg') no-repeat;
+    background: url('./pexels-nikolaos-dimou-2473183.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     /* opacity: .8; */
@@ -171,7 +171,7 @@ body{
 }
 .skills{
     height: 100vh;
-    background: url('./images/pexels-nikolaos-dimou-2473183.jpg') no-repeat;
+    background: url('./pexels-nikolaos-dimou-2473183.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     /* opacity: .8; */
